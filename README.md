@@ -21,4 +21,4 @@ Problems and Thought Process:
 # Responsive Design: Ensuring the app works seamlessly on different devices was crucial. I used CSS to create a responsive design that adapts to various screen sizes.
 # User Experience: Providing a simple and intuitive user interface was a primary focus. I aimed to minimize the number of steps needed to perform core actions, making the app easy to use.
 
-# This project highlights my ability to develop practical and user-friendly web applications using React. It demonstrates my skills in component management, state handling, responsive design, and ensuring data persistence.
+# This project highlights my ability to develop practical and user-friendly web applications using React. It demonstrates my skills in component management, state handling, responsive design, and ensuring data persistence. 
